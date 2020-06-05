@@ -5,3 +5,6 @@ module.exports.forEachNeighbor = require("./library/forEachNeighbor.js");
 module.exports.nextNeighbor = require("./library/nextNeighbor.js");
 module.exports.treeTraverse = require("./library/treeTraverse.js");
 module.exports.largestNeighbor = require("./library/largestNeighbor.js");
+module.exports.traverse = require("./library/traverse.js");
+module.exports.isHeavyEdge = require("./library/isHeavyEdge.js");
+module.exports.getDegree = require("./library/getDegree.js");
