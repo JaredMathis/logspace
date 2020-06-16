@@ -1,0 +1,26 @@
+{
+  "name": "wlj-logspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "wlj-utilities": "^1.0.80",
+    "wlj-math": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaredMathis/logspace.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/JaredMathis/logspace/issues"
+  },
+  "homepage": "https://github.com/JaredMathis/logspace#readme"
+}
