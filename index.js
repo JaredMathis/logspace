@@ -8,3 +8,5 @@ module.exports.largestNeighbor = require("./library/largestNeighbor.js");
 module.exports.traverse = require("./library/traverse.js");
 module.exports.isHeavyEdge = require("./library/isHeavyEdge.js");
 module.exports.getDegree = require("./library/getDegree.js");
+module.exports.forEachMax3 = require("./library/forEachMax3.js");
+module.exports.forEachVertexUnique = require("./library/forEachVertexUnique.js");
