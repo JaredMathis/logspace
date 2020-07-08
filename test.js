@@ -10,7 +10,6 @@ require("./tests/treeTraverse/treeTraverse.js");
 
 // TODO: Fix broken test
 //require("./tests/traverse/traverse.js");
-require("./tests/forEachMax3/1.js");
 require("./tests/forEachVertexUnique/1.js");
 require("./tests/forEachVertexUnique/2.js");
 require("./tests/vertexCount/1.js");
