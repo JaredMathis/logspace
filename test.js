@@ -13,3 +13,4 @@ require("./tests/treeTraverse/treeTraverse.js");
 require("./tests/forEachMax3/1.js");
 require("./tests/forEachVertexUnique/1.js");
 require("./tests/forEachVertexUnique/2.js");
+require("./tests/vertexCount/1.js");
