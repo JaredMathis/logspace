@@ -10,3 +10,4 @@ module.exports.isHeavyEdge = require("./library/isHeavyEdge.js");
 module.exports.getDegree = require("./library/getDegree.js");
 module.exports.forEachVertexUnique = require("./library/forEachVertexUnique.js");
 module.exports.vertexCount = require("./library/vertexCount.js");
+module.exports.isPrime = require("./library/isPrime.js");
