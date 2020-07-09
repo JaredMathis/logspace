@@ -13,3 +13,6 @@ require("./tests/vertexCount/1.js");
 require("./tests/isPrime/1.js");
 require("./tests/nextPrime/1.js");
 require("./tests/traverse/tests.js");
+
+// hasn't ran yet
+require("./tests/traverse/trial400.js");
