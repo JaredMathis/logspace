@@ -7,8 +7,8 @@
     "test": "tests"
   },
   "dependencies": {
-    "wlj-utilities": "^1.0.80",
-    "wlj-math": "^1.0.2"
+    "wlj-math": "^1.0.3",
+    "wlj-utilities": "^1.0.82"
   },
   "devDependencies": {},
   "scripts": {
