@@ -12,5 +12,4 @@ require("./tests/forEachVertexUnique/2.js");
 require("./tests/vertexCount/1.js");
 require("./tests/isPrime/1.js");
 require("./tests/nextPrime/1.js");
-// TODO: Fix broken test
-require("./tests/traverse/traverse.js");
+require("./tests/traverse/tests.js");
